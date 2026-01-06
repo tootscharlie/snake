@@ -77,7 +77,7 @@
 1. 克隆项目
 
     ```bash
-    git clone https://github.com/haozishuizhaole/snake.git
+    git clone git@github.com:tootscharlie/snake.git
     cd snake
     ```
 
